@@ -1,5 +1,5 @@
-# UnitCommitment
-## Morgan Reilly -- 20235398
+# Unit Commitment - Optimisation
+## Morgan Reilly -- 20235398 | Shaurabh Singh -- 20231849
 ## Environment Setup -- Linux (Using Python 3 | Pip Virtual Environment)
 * Download requirements.txt
 * Create Virtual Environment
@@ -12,6 +12,6 @@
 Assuming correct environment setup and in root directory:
 * `$ jupyter notebook`
 * Click on the `.ipynb` file to view project
-### Project Overview
+## Project Overview
 Solving a Unit Commitment (electricity generator scheduling) problem using linear programming.
-* See project spec for breakdown on requirements
+* See project spec for description and breakdown on requirements
